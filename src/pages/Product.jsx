@@ -1,6 +1,6 @@
 import React from "react";
 import products from "../data/Products";
-const WHATSAPP_NUMBER = "8726453323"; // Replace with your WhatsApp number including country code without '+'
+const WHATSAPP_NUMBER = "918726453323"; // Replace with your WhatsApp number including country code without '+'
 
 const Product = () => {
   const handleWhatsAppClick = (product) => {
