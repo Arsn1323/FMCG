@@ -10,7 +10,7 @@ const Footer = () => {
           <Col md={4} className="mb-4">
             <h5 className="text-uppercase mb-3">About Us</h5>
             <p>
-              We provide top-quality services to help your business grow. Our team is passionate, creative, and committed to excellence.
+              We provide top-quality service to help your business grow. Our team is passionate, creative, and committed to excellence.
             </p>
           </Col>
 
